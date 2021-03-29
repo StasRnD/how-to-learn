@@ -75,7 +75,6 @@
 
 .description {
   max-width: 80%;
-
 }
 
 .content__description {
@@ -108,12 +107,10 @@
 .two-colums__paragraph {
   margin: 0;
   font-size: 24px;
-
 }
 
 .two-columns__space-accent {
   font-weight: bold;
-
 }
 
 /* Секция digits */
@@ -178,7 +175,6 @@
   font-size: 24px;
   font-weight: bold;
   line-height: 1.15;
-
 }
 
 .table__text {
@@ -277,12 +273,12 @@
   display: flex;
   align-items: stretch;
 }
+
 .footer__columns {
   width: 90%;
   margin: 60px auto 40px auto;
   display: flex;
   justify-content: space-between;
-
 }
 
 .footer__column {
@@ -305,13 +301,14 @@
   margin: 18px 0;
   line-height: 25px;
   font-size: 18px;
-  color: white
-
+  color: white;
 }
+
 .footer__column-links {
   margin-top: 20px;
   margin-bottom: 16px;
 }
+
 .footer__column-link {
   display: block;
   text-decoration: none;
@@ -325,7 +322,6 @@
   font-size: 18px;
   line-height: 30px;
   font-weight: bold;
-
 }
 
 .footer__social-icon {
