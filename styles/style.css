@@ -136,6 +136,7 @@
 /* Модификатор для footer */
 .section-title_theme_dark {
   color: white;
+  z-index: 1;
 }
 
 .section-subtitle {
@@ -147,15 +148,16 @@
   line-height: 34px;
 }
 
-.section-subtitle-theme-white {
+.section-subtitle_theme_white {
   margin-top: 20px;
 }
 
 
 /* Модификатор для footer */
-.section-subtitle-theme-dark {
+.section-subtitle_theme_dark {
   color: white;
   margin-top: 20px;
+  z-index: 1;
 }
 
 .table {
@@ -165,7 +167,7 @@
   justify-content: space-between;
 }
 
-.table-theme-white {
+.table_theme_white {
   margin-bottom: 100px;
 }
 
@@ -217,7 +219,7 @@
   background-repeat: no-repeat;
 }
 
-.feyman__title {
+.feynman__title {
   margin: 0;
   margin-top: 100px;
   max-width: 648px;
