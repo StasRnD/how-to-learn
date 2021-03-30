@@ -194,8 +194,6 @@
   color:white;
 }
 
-
-
 /* модификатор для footer */
 .table__cell_theme_dark {
   width: 200px;
@@ -205,10 +203,9 @@
   z-index:1;
 }
 
-
 /* Блок Feynman */
 .feynman {
-  background-color: #f2f2f2 ;
+  background-color: #f2f2f2;
   position: relative;
   display: flex;
   flex-direction: column;
