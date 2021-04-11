@@ -1,0 +1,4 @@
+.two-colums {
+  display: flex;
+  justify-content: space-between;
+}
