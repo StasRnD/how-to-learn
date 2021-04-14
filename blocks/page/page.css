@@ -10,10 +10,3 @@
 }
 
 
-.page a:hover {
-  opacity: .5;
-}
-
-.page a {
-  transition: opacity 0.1s linear;
-}
